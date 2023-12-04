@@ -1,6 +1,7 @@
 return {
     -- useful oneliners
     --
+    { "christoomey/vim-tmux-navigator",      lazy = false },
     -- auto closes open brackets when creating a new line
     { 'rstacruz/vim-closer' },
     -- vim firestore rules linting
